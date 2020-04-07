@@ -1,4 +1,4 @@
-# Voice_Timer
+# Voice_Timer using python
 voice activate timer
 
 cmds:
